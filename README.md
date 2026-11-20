@@ -1,6 +1,11 @@
 # DeskNest
 A minimal desk-accessory shop built with Next.js, Prisma and Neon PostgreSQL.
 
+## Academic Project Details
+- **Course:** CSE 3206
+- **Submitted by:** Mirza Wajih Ali (Roll: 2203050)
+- **Course Teacher:** Emrana Kabir Hashi, Assistant Professor, RUET
+
 ## Run locally
 Node.js 24 is recommended. Copy `.env.example` to `.env` and configure your own database.
 
